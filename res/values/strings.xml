@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ECG</string>
+    <string name="action_settings">No Settings</string>
+    <string name="title_activity_helpscreen">Helpscreen</string>
+    <string name="hello_world">Welcome to BlueSerial</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="disconnect_btn">Disconnect </string>
+    <string name="txtReceive_str"></string>
+</resources>
