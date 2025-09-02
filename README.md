@@ -16,3 +16,10 @@ It is fairly straightforward and allows for 2 way communication.  Source code at
 Arduino sketch
 ===============
 Also contained in this folder: ECG_BlueSerial.  Copy/paste source code into Arduino IDE.
+
+Video
+========
+<img width="1280" height="721" alt="ecg" src="https://github.com/user-attachments/assets/c07149aa-f0b9-4680-92c2-c21420b68fe4" />
+https://www.youtube.com/watch?v=Exx215-yEFs
+
+
